@@ -6,5 +6,8 @@ public class Main {
         Random random = new Random();
         System.out.println("Hello World");
 
+        System.out.println(random.nextInt(10));
+
+
     }
 }
